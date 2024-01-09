@@ -1,0 +1,14 @@
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\bin\Debug\net6.0\DesafioPOO.exe
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\bin\Debug\net6.0\DesafioPOO.dll
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\DesafioPOO.dll
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Códigos\VSCode\C# Códigos\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\obj\Debug\net6.0\ref\DesafioPOO.dll

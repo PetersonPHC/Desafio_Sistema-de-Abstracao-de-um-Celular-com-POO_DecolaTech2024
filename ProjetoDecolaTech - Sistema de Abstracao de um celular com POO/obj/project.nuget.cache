@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCErRymZnLBUKuVQDAEEUEqXowswuIAWKf3UvttJK2yyM5To1JWCADHWDcAflIxIZj8iN+ESoS3/TjTeu3Q1lg==",
+  "success": true,
+  "projectFilePath": "C:\\Códigos\\VSCode\\C# Códigos\\ProjetoDecolaTech - Sistema de Abstracao de um celular com POO\\DesafioPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
